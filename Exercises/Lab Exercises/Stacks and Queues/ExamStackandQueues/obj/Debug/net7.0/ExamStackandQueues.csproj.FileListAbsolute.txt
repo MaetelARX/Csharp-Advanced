@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\bin\Debug\net7.0\ExamStackandQueues.exe
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\bin\Debug\net7.0\ExamStackandQueues.deps.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\bin\Debug\net7.0\ExamStackandQueues.runtimeconfig.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\bin\Debug\net7.0\ExamStackandQueues.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\bin\Debug\net7.0\ExamStackandQueues.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ExamStackandQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ExamStackandQueues.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ExamStackandQueues.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ExamStackandQueues.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ExamStackandQueues.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\refint\ExamStackandQueues.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ExamStackandQueues.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ExamStackandQueues.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\ExamStackandQueues\obj\Debug\net7.0\ref\ExamStackandQueues.dll

@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\bin\Debug\net7.0\06. Supermarket.exe
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\bin\Debug\net7.0\06. Supermarket.deps.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\bin\Debug\net7.0\06. Supermarket.runtimeconfig.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\bin\Debug\net7.0\06. Supermarket.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\bin\Debug\net7.0\06. Supermarket.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\06. Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\06. Supermarket.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\06. Supermarket.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\06. Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\06. Supermarket.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\refint\06. Supermarket.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\06. Supermarket.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\06. Supermarket.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\06. Supermarket\obj\Debug\net7.0\ref\06. Supermarket.dll

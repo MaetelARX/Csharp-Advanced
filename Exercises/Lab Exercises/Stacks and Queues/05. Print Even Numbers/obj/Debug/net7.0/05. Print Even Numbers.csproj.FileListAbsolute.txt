@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.exe
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.deps.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.runtimeconfig.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\bin\Debug\net7.0\05. Print Even Numbers.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\refint\05. Print Even Numbers.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\05. Print Even Numbers.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\05. Print Even Numbers\obj\Debug\net7.0\ref\05. Print Even Numbers.dll

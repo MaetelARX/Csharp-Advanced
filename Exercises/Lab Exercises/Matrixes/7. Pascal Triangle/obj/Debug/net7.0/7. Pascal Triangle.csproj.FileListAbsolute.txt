@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.exe
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.deps.json
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.runtimeconfig.json
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.dll
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\bin\Debug\net7.0\7. Pascal Triangle.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.dll
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\refint\7. Pascal Triangle.dll
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\7. Pascal Triangle.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\02. Matrixes\7. Pascal Triangle\obj\Debug\net7.0\ref\7. Pascal Triangle.dll

@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\bin\Debug\net7.0\10. Crossroads.exe
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\bin\Debug\net7.0\10. Crossroads.deps.json
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\bin\Debug\net7.0\10. Crossroads.runtimeconfig.json
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\bin\Debug\net7.0\10. Crossroads.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\bin\Debug\net7.0\10. Crossroads.pdb
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\10. Crossroads.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\10. Crossroads.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\refint\10. Crossroads.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\10. Crossroads.pdb
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\10. Crossroads.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\10. Crossroads\obj\Debug\net7.0\ref\10. Crossroads.dll

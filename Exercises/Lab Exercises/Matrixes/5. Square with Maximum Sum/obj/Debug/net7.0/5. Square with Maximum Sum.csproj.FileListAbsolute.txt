@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\bin\Debug\net7.0\5. Square with Maximum Sum.exe
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\bin\Debug\net7.0\5. Square with Maximum Sum.deps.json
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\bin\Debug\net7.0\5. Square with Maximum Sum.runtimeconfig.json
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\bin\Debug\net7.0\5. Square with Maximum Sum.dll
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\bin\Debug\net7.0\5. Square with Maximum Sum.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\5. Square with Maximum Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\5. Square with Maximum Sum.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\5. Square with Maximum Sum.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\5. Square with Maximum Sum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\5. Square with Maximum Sum.dll
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\refint\5. Square with Maximum Sum.dll
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\5. Square with Maximum Sum.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\5. Square with Maximum Sum.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\02. Matrixes\5. Square with Maximum Sum\obj\Debug\net7.0\ref\5. Square with Maximum Sum.dll

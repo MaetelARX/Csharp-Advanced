@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "QejxINRIDEYoW9Ti4Zs/7pk59oHbXfgN2JphTv2xKy378fiIPv6IZNWfKSQArzJAVVupEI6v4j21cs78x4x4Ww==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\02. Matrixes\\Exercises\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\02. Matrixes\\Exercises\\1. Basic Stack Operations\\1. Basic Stack Operations.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\02. Matrixes\\Exercises\\1. Basic Stack Operations\\1. Basic Stack Operations.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

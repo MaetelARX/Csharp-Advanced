@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.exe
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.deps.json
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.runtimeconfig.json
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.dll
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\bin\Debug\net7.0\3. Primary Diagonal.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.dll
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\refint\3. Primary Diagonal.dll
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\3. Primary Diagonal.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\02. Matrixes\3. Primary Diagonal\obj\Debug\net7.0\ref\3. Primary Diagonal.dll

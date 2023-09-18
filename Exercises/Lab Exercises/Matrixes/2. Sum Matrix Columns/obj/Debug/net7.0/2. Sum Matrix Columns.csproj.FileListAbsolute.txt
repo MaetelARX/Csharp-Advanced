@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.exe
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.deps.json
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.runtimeconfig.json
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.dll
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\bin\Debug\net7.0\2. Sum Matrix Columns.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.dll
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\refint\2. Sum Matrix Columns.dll
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.pdb
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\2. Sum Matrix Columns.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\02. Matrixes\2. Sum Matrix Columns\obj\Debug\net7.0\ref\2. Sum Matrix Columns.dll

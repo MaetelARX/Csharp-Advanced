@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.exe
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.deps.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.runtimeconfig.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\bin\Debug\net7.0\03. Simple Calculator.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\refint\03. Simple Calculator.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\03. Simple Calculator.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\03. Simple Calculator\obj\Debug\net7.0\ref\03. Simple Calculator.dll

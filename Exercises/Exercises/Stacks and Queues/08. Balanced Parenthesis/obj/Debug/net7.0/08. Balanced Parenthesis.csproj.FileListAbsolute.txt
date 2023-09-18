@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\net7.0\08. Balanced Parenthesis.exe
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\net7.0\08. Balanced Parenthesis.deps.json
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\net7.0\08. Balanced Parenthesis.runtimeconfig.json
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\net7.0\08. Balanced Parenthesis.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\bin\Debug\net7.0\08. Balanced Parenthesis.pdb
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\08. Balanced Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\08. Balanced Parenthesis.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\08. Balanced Parenthesis.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\refint\08. Balanced Parenthesis.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\08. Balanced Parenthesis.pdb
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\08. Balanced Parenthesis.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\08. Balanced Parenthesis\obj\Debug\net7.0\ref\08. Balanced Parenthesis.dll

@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.exe
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.deps.json
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.runtimeconfig.json
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\bin\Debug\net7.0\6. Songs Queue.pdb
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\refint\6. Songs Queue.dll
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.pdb
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\6. Songs Queue.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\1. Basic Stack Operations\6. Songs Queue\obj\Debug\net7.0\ref\6. Songs Queue.dll

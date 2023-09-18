@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\bin\Debug\net7.0\01.Reverse a String.exe
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\bin\Debug\net7.0\01.Reverse a String.deps.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\bin\Debug\net7.0\01.Reverse a String.runtimeconfig.json
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\bin\Debug\net7.0\01.Reverse a String.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\bin\Debug\net7.0\01.Reverse a String.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\01.Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\01.Reverse a String.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\01.Reverse a String.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\01.Reverse a String.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\01.Reverse a String.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\refint\01.Reverse a String.dll
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\01.Reverse a String.pdb
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\01.Reverse a String.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\ExamStackandQueues\01.Reverse a String\obj\Debug\net7.0\ref\01.Reverse a String.dll
