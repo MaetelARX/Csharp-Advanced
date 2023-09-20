@@ -1,0 +1,14 @@
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\1. Count Same Values in Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\1. Count Same Values in Array.AssemblyInfoInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\1. Count Same Values in Array.AssemblyInfo.cs
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\1. Count Same Values in Array.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\net7.0\1. Count Same Values in Array.exe
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\net7.0\1. Count Same Values in Array.deps.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\net7.0\1. Count Same Values in Array.runtimeconfig.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\net7.0\1. Count Same Values in Array.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\bin\Debug\net7.0\1. Count Same Values in Array.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\1. Count Same Values in Array.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\refint\1. Count Same Values in Array.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\1. Count Same Values in Array.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\1. Count Same Values in Array.genruntimeconfig.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Count Same Values in Array\1. Count Same Values in Array\obj\Debug\net7.0\ref\1. Count Same Values in Array.dll

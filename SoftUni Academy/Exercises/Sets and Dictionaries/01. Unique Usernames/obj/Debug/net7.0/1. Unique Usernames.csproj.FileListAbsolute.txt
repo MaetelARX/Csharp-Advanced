@@ -1,0 +1,14 @@
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\bin\Debug\net7.0\1. Unique Usernames.exe
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\bin\Debug\net7.0\1. Unique Usernames.deps.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\bin\Debug\net7.0\1. Unique Usernames.runtimeconfig.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\bin\Debug\net7.0\1. Unique Usernames.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\bin\Debug\net7.0\1. Unique Usernames.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\1. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\1. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\1. Unique Usernames.AssemblyInfo.cs
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\1. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\1. Unique Usernames.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\refint\1. Unique Usernames.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\1. Unique Usernames.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\1. Unique Usernames.genruntimeconfig.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\1. Unique Usernames\1. Unique Usernames\obj\Debug\net7.0\ref\1. Unique Usernames.dll
