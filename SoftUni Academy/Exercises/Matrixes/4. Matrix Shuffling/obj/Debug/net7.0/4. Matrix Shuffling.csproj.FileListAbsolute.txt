@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\bin\Debug\net7.0\4. Matrix Shuffling.exe
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\bin\Debug\net7.0\4. Matrix Shuffling.deps.json
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\bin\Debug\net7.0\4. Matrix Shuffling.runtimeconfig.json
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\bin\Debug\net7.0\4. Matrix Shuffling.dll
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\bin\Debug\net7.0\4. Matrix Shuffling.pdb
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\4. Matrix Shuffling.dll
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\refint\4. Matrix Shuffling.dll
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\4. Matrix Shuffling.pdb
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\4. Matrix Shuffling.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\1. Diagonal Difference\4. Matrix Shuffling\obj\Debug\net7.0\ref\4. Matrix Shuffling.dll

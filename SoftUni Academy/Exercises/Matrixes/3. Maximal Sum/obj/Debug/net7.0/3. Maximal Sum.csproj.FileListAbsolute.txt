@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.exe
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.deps.json
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.runtimeconfig.json
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.dll
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\bin\Debug\net7.0\3. Maximal Sum.pdb
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.dll
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\refint\3. Maximal Sum.dll
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.pdb
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\3. Maximal Sum.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\1. Diagonal Difference\3. Maximal Sum\obj\Debug\net7.0\ref\3. Maximal Sum.dll
