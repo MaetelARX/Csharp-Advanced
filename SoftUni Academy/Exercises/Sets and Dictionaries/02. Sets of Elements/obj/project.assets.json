@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\1. Unique Usernames\\2. Sets of Elements\\2. Sets of Elements.csproj",
-      "projectName": "2. Sets of Elements",
-      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\1. Unique Usernames\\2. Sets of Elements\\2. Sets of Elements.csproj",
+      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\01. Unique Usernames\\02. Sets of Elements\\02. Sets of Elements.csproj",
+      "projectName": "02. Sets of Elements",
+      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\01. Unique Usernames\\02. Sets of Elements\\02. Sets of Elements.csproj",
       "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\1. Unique Usernames\\2. Sets of Elements\\obj\\",
+      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\01. Unique Usernames\\02. Sets of Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

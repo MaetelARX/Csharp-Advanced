@@ -1,6 +1,6 @@
 ﻿int n = int.Parse(Console.ReadLine());
 
-Dictionary<int, int>input  = new Dictionary<int, int>();
+Dictionary<int, int> input = new Dictionary<int, int>();
 
 int count = 0;
 

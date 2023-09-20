@@ -2,7 +2,7 @@
 
 char[] symbol = input.ToCharArray();
 
-SortedDictionary<char,int>result = new SortedDictionary<char,int>();
+SortedDictionary<char, int> result = new SortedDictionary<char, int>();
 
 for (int i = 0; i < input.Length; i++)
 {

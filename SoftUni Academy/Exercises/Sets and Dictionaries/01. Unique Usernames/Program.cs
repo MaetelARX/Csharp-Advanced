@@ -9,4 +9,3 @@ for (int i = 0; i < n; i++)
 foreach (var item in set)
 {
     Console.WriteLine(item);
-}

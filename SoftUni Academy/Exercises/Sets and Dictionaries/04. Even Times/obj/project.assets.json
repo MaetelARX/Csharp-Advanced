@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\1. Unique Usernames\\4. Even Times\\4. Even Times.csproj",
-      "projectName": "4. Even Times",
-      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\1. Unique Usernames\\4. Even Times\\4. Even Times.csproj",
+      "projectUniqueName": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\01. Unique Usernames\\04. Even Times\\04. Even Times.csproj",
+      "projectName": "04. Even Times",
+      "projectPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\01. Unique Usernames\\04. Even Times\\04. Even Times.csproj",
       "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\1. Unique Usernames\\4. Even Times\\obj\\",
+      "outputPath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\01. Unique Usernames\\04. Even Times\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

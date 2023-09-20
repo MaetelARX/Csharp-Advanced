@@ -1,6 +1,6 @@
 ﻿int n = int.Parse(Console.ReadLine());
 
-Dictionary<string, Dictionary<string,int>> colorsClothes = new Dictionary<string, Dictionary<string, int>>();
+Dictionary<string, Dictionary<string, int>> colorsClothes = new Dictionary<string, Dictionary<string, int>>();
 
 for (int i = 0; i < n; i++)
 {
@@ -13,7 +13,7 @@ for (int i = 0; i < n; i++)
         colorsClothes.Add(color, new Dictionary<string, int>());
     }
 
-    for (int j = 1;  j < input.Length; j++)
+    for (int j = 1; j < input.Length; j++)
     {
         string current = input[j];
 
@@ -28,10 +28,10 @@ for (int i = 0; i < n; i++)
 
 string[] find = Console.ReadLine().Split();
 
-foreach(var item in colorsClothes)
-{       
+foreach (var item in colorsClothes)
+{
     Console.WriteLine($"{item.Key} clothes:");
-    foreach(var output in item.Value)
+    foreach (var output in item.Value)
     {
         string color = find[0];
         string wear = find[1];

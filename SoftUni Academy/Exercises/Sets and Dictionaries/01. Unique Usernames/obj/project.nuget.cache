@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FsIVkzA7PX/yVyxDpflSsb9WuypmgvYxTyn03vJvP55GBw5tpoWI/17zaGpkyz/gD/7+XcVWXB/XqKZyKRO0Lw==",
+  "dgSpecHash": "d5bbShrfccJPpiiUSkxHsTK4uIp6a2gRkFfr5Q/CjSh0eryZKJb6AkLLmlYKkMU6+iSR802iKx8qhwl3ugF0oQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\1. Unique Usernames\\1. Unique Usernames\\1. Unique Usernames.csproj",
+  "projectFilePath": "C:\\Users\\Plamen\\Documents\\GitHub\\Csharp-Advanced\\01. Unique Usernames\\01. Unique Usernames\\01. Unique Usernames.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
