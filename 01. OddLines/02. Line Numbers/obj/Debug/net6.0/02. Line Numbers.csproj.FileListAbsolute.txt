@@ -1,0 +1,14 @@
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.exe
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.deps.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.runtimeconfig.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfoInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfo.cs
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\refint\02. Line Numbers.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.genruntimeconfig.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. OddLines\02. Line Numbers\obj\Debug\net6.0\ref\02. Line Numbers.dll
