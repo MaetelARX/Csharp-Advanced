@@ -1,0 +1,14 @@
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\bin\Debug\net6.0\01. Action Print.exe
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\bin\Debug\net6.0\01. Action Print.deps.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\bin\Debug\net6.0\01. Action Print.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\bin\Debug\net6.0\01. Action Print.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\01. Action Print.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\refint\01. Action Print.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\01. Action Print.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\01. Action Print\obj\Debug\net6.0\ref\01. Action Print.dll

@@ -1,0 +1,14 @@
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.exe
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.deps.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.runtimeconfig.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\bin\Debug\net6.0\08. List Of Predicates.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.AssemblyInfo.cs
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\refint\08. List Of Predicates.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\08. List Of Predicates.genruntimeconfig.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Action Print\08. List Of Predicates\obj\Debug\net6.0\ref\08. List Of Predicates.dll

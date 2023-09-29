@@ -1,0 +1,14 @@
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.exe
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.deps.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.runtimeconfig.json
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.AssemblyInfoInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.AssemblyInfo.cs
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\refint\05. Filter By Age.dll
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.pdb
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.genruntimeconfig.cache
+C:\Users\Plamen\Documents\GitHub\Csharp-Advanced\01. Sort Even Numbers\05. Filter By Age\obj\Debug\net6.0\ref\05. Filter By Age.dll
