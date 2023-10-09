@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\bin\Debug\net6.0\06GenericCountMethodDouble.exe
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\bin\Debug\net6.0\06GenericCountMethodDouble.deps.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\bin\Debug\net6.0\06GenericCountMethodDouble.runtimeconfig.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\bin\Debug\net6.0\06GenericCountMethodDouble.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\bin\Debug\net6.0\06GenericCountMethodDouble.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\06GenericCountMethodDouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\06GenericCountMethodDouble.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\06GenericCountMethodDouble.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\06GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\06GenericCountMethodDouble.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\refint\06GenericCountMethodDouble.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\06GenericCountMethodDouble.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\06GenericCountMethodDouble.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\06GenericCountMethodDouble\obj\Debug\net6.0\ref\06GenericCountMethodDouble.dll

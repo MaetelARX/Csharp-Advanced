@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\bin\Debug\net6.0\02GenericBoxOfInteger.exe
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\bin\Debug\net6.0\02GenericBoxOfInteger.deps.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\bin\Debug\net6.0\02GenericBoxOfInteger.runtimeconfig.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\bin\Debug\net6.0\02GenericBoxOfInteger.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\bin\Debug\net6.0\02GenericBoxOfInteger.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\02GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\02GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\02GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\02GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\02GenericBoxOfInteger.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\refint\02GenericBoxOfInteger.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\02GenericBoxOfInteger.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\02GenericBoxOfInteger.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\02GenericBoxOfInteger\obj\Debug\net6.0\ref\02GenericBoxOfInteger.dll

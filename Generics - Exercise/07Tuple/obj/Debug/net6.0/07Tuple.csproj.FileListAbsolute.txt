@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\bin\Debug\net6.0\07Tuple.exe
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\bin\Debug\net6.0\07Tuple.deps.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\bin\Debug\net6.0\07Tuple.runtimeconfig.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\bin\Debug\net6.0\07Tuple.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\bin\Debug\net6.0\07Tuple.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\07Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\07Tuple.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\07Tuple.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\07Tuple.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\07Tuple.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\refint\07Tuple.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\07Tuple.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\07Tuple.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\07Tuple\obj\Debug\net6.0\ref\07Tuple.dll

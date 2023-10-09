@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\bin\Debug\net6.0\01GenericBoxOfString.exe
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\bin\Debug\net6.0\01GenericBoxOfString.deps.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\bin\Debug\net6.0\01GenericBoxOfString.runtimeconfig.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\bin\Debug\net6.0\01GenericBoxOfString.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\bin\Debug\net6.0\01GenericBoxOfString.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\01GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\01GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\01GenericBoxOfString.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\01GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\01GenericBoxOfString.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\refint\01GenericBoxOfString.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\01GenericBoxOfString.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\01GenericBoxOfString.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\01GenericBoxOfString\obj\Debug\net6.0\ref\01GenericBoxOfString.dll

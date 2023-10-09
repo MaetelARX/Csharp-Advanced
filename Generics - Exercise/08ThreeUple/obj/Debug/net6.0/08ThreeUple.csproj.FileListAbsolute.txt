@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\bin\Debug\net6.0\08ThreeUple.exe
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\bin\Debug\net6.0\08ThreeUple.deps.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\bin\Debug\net6.0\08ThreeUple.runtimeconfig.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\bin\Debug\net6.0\08ThreeUple.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\bin\Debug\net6.0\08ThreeUple.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\08ThreeUple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\08ThreeUple.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\08ThreeUple.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\08ThreeUple.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\08ThreeUple.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\refint\08ThreeUple.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\08ThreeUple.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\08ThreeUple.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\08ThreeUple\obj\Debug\net6.0\ref\08ThreeUple.dll

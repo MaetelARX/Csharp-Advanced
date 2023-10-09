@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\bin\Debug\net6.0\03GenericSwapMethodString.exe
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\bin\Debug\net6.0\03GenericSwapMethodString.deps.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\bin\Debug\net6.0\03GenericSwapMethodString.runtimeconfig.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\bin\Debug\net6.0\03GenericSwapMethodString.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\bin\Debug\net6.0\03GenericSwapMethodString.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\03GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\03GenericSwapMethodString.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\03GenericSwapMethodString.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\03GenericSwapMethodString.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\03GenericSwapMethodString.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\refint\03GenericSwapMethodString.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\03GenericSwapMethodString.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\03GenericSwapMethodString.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\03GenericSwapMethodString\obj\Debug\net6.0\ref\03GenericSwapMethodString.dll

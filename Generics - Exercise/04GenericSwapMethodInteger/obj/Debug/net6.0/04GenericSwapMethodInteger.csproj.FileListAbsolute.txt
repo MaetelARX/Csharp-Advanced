@@ -1,0 +1,14 @@
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\bin\Debug\net6.0\04GenericSwapMethodInteger.exe
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\bin\Debug\net6.0\04GenericSwapMethodInteger.deps.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\bin\Debug\net6.0\04GenericSwapMethodInteger.runtimeconfig.json
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\bin\Debug\net6.0\04GenericSwapMethodInteger.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\bin\Debug\net6.0\04GenericSwapMethodInteger.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\04GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\04GenericSwapMethodInteger.AssemblyInfoInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\04GenericSwapMethodInteger.AssemblyInfo.cs
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\04GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\04GenericSwapMethodInteger.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\refint\04GenericSwapMethodInteger.dll
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\04GenericSwapMethodInteger.pdb
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\04GenericSwapMethodInteger.genruntimeconfig.cache
+C:\Users\Plamen\source\repos\01GenericBoxOfString\04GenericSwapMethodInteger\obj\Debug\net6.0\ref\04GenericSwapMethodInteger.dll
